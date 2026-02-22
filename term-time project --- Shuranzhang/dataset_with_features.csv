@@ -1,0 +1,168 @@
+﻿image_id,emotion,context,eyes,mouth,eyebrow,intensity,social_state,image_path,has_face,eye_open,mouth_open,mouth_width,smile,brow_raise,activity
+img_001,sad,personal,downcast,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_001.jpg,1,0.038443662226200104,0.23553431034088135,0.8231987357139587,-1.1838356073212708e-07,0.15670183300971985,0.14093154668807983
+img_002,sad,personal,downcast,downturned,furrowed,2,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_002.jpg,1,0.11615210771560669,0.0022041958291083574,0.565588116645813,0.0,0.08920407295227051,0.06518334150314331
+img_003,sad,personal,closed,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_003.jpg,1,0.011637657880783081,0.26613205671310425,0.692905604839325,9.106398835001528e-08,0.1344013512134552,0.1379881501197815
+img_004,sad,personal,downcast,downturned,furrowed,2,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_004.jpg,1,0.11822288483381271,0.003367034252732992,0.6045105457305908,7.552016256795469e-08,0.11667657643556595,0.07197128236293793
+img_005,sad,personal,downcast,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_005.jpg,1,0.11051779240369797,0.09778480231761932,0.61465984582901,-8.837404408268412e-08,0.11797121167182922,0.10691528022289276
+img_006,sad,personal,wide,neutral,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_006.jpg,1,0.11992610991001129,0.07154446095228195,0.5077742338180542,0.0,0.08282432705163956,0.09315308928489685
+img_007,sad,personal,downcast,downturned,neutral,2,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_007.jpg,1,0.08092077821493149,0.0054428838193416595,0.5478504300117493,1.4591023500543088e-07,0.1414595991373062,0.0628373846411705
+img_008,sad,personal,downcast,neutral,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_008.jpg,1,0.13022007048130035,0.004438703414052725,0.49859920144081116,-8.506503945682198e-08,0.10524195432662964,0.07491189986467361
+img_009,sad,public,downcast,neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_009.jpg,1,0.09716877341270447,0.0012020600261166692,0.5436373353004456,0.0,0.09090850502252579,0.057530034333467484
+img_010,sad,personal,narrow,downturned,furrowed,2,isolated,,0,,,,,,
+img_011,sad,personal,downcast,neutral,neutral,2,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_011.jpg,1,0.09229211509227753,0.0025161015801131725,0.5961880087852478,0.0,0.1721343845129013,0.0723501592874527
+img_012,sad,work,narrow,downturned,furrowed,2,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_012.jpg,1,0.04008663445711136,0.04507213458418846,0.6103928089141846,0.0,0.1220819279551506,0.05847989022731781
+img_013,sad,personal,downcast,downturned,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_013.jpg,1,0.08828140795230865,0.0023766777012497187,0.5970872044563293,0.0,0.2001868337392807,0.07630060613155365
+img_014,sad,personal,downcast,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Sad\img_014.jpg,1,0.07448525726795197,0.27935197949409485,0.6067463159561157,6.288406950716308e-08,0.09281999617815018,0.16009889543056488
+img_015,sad,work,downcast,downturned,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_015.jpg,1,0.10999653488397598,0.006823166739195585,0.5258620381355286,1.7513789885015285e-07,0.130814790725708,0.07289084047079086
+img_016,sad,personal,downcast,neutral,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_016.jpg,1,0.1086842492222786,0.011995119042694569,0.6341923475265503,0.0,0.18470099568367004,0.08521194756031036
+img_017,sad,work,downcast,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_017.jpeg,1,0.0864737257361412,0.13479416072368622,0.574800968170166,-1.097691963991565e-07,0.13775551319122314,0.11605826020240784
+img_018,sad,public,downcast,neutral,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Sad\img_018.jpg,1,0.103303924202919,0.0038160267286002636,0.5422465205192566,0.0,0.07087613642215729,0.05702321231365204
+img_019,sad,public,downcast,downturned,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Sad\img_019.jpeg,1,0.07711689919233322,0.022176474332809448,0.5547094941139221,-1.310252315533944e-07,0.22541619837284088,0.084800586104393
+img_020,sad,work,downcast,downturned,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_020.jpeg,1,0.10778346657752991,0.003959743306040764,0.5578399896621704,0.0,0.07101215422153473,0.058899715542793274
+img_021,sad,personal,downcast,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Sad\img_021.jpeg,1,0.07525058090686798,0.2996078431606293,0.6608599424362183,-1.3275827370762272e-07,0.08180352300405502,0.1663040667772293
+img_022,sad,personal,closed,tight,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Sad\img_022.jpeg,1,0.05358858034014702,0.004916009958833456,0.7049834728240967,0.0,0.16717477142810822,0.05683679133653641
+img_023,sad,personal,downcast,neutral,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Sad\img_023.jpeg,1,0.13317327201366425,0.006828623823821545,0.4721163213253021,0.0,0.13167329132556915,0.08233541250228882
+img_024,sad,personal,closed,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Sad\img_024.jpeg,1,0.017673542723059654,0.10952316969633102,0.7091469168663025,0.0,0.1757071167230606,0.08602011203765869
+img_025,fear,personal,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_025.jpg,1,0.13489635288715363,0.380217045545578,0.48256269097328186,9.801384948104896e-08,0.022926222532987595,0.2106306105852127
+img_026,fear,personal,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_026.jpg,1,0.13306213915348053,0.40678665041923523,0.6941396594047546,-9.341151496755629e-08,0.10430189967155457,0.23679989576339722
+img_027,fear,personal,wide,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_027.jpeg,1,0.14643453061580658,0.2640322148799896,0.47981229424476624,7.591930994976792e-08,0.08906222879886627,0.18199914693832397
+img_028,fear,personal,wide,downturned,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_028.jpg,1,0.13850338757038116,0.07132776826620102,0.6668572425842285,-7.062427442861008e-08,0.11091732233762741,0.10611592233181
+img_029,fear,public,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_029.jpg,1,0.12107203900814056,0.18312829732894897,0.6802054047584534,7.723445349938629e-08,0.14039300382137299,0.1497587412595749
+img_030,fear,personal,wide,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_030.jpeg,1,0.12751804292201996,0.34248822927474976,0.6059008836746216,9.935609313060922e-08,0.09473539143800735,0.20694957673549652
+img_031,fear,work,wide,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_031.jpg,1,0.1274193674325943,0.20100754499435425,0.5465937852859497,1.3203919024817878e-07,0.031538087874650955,0.1376783847808838
+img_032,fear,personal,wide,neutral,furrowed,2,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_032.jpeg,1,0.1332259625196457,0.0182011928409338,0.43015509843826294,9.003468193213848e-08,0.11825553327798843,0.0842219665646553
+img_033,fear,public,narrow,tight,furrowed,1,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_033.jpg,1,0.09963066875934601,0.007057855371385813,0.547552227973938,-2.5599464947845263e-07,0.19372062385082245,0.08141953498125076
+img_034,fear,personal,wide,tight,furrowed,1,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_034.jpeg,1,0.15143734216690063,0.03651535511016846,0.48881447315216064,-2.2022953771738685e-07,0.11772942543029785,0.09872696548700333
+img_035,fear,personal,wide,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_035.jpeg,1,0.1535578966140747,0.1560097187757492,0.5342854857444763,-1.921875991683919e-07,0.12193044275045395,0.14821313321590424
+img_036,fear,personal,wide,open,raised,3,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_036.jpeg,0,,,,,,
+img_037,fear,work,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_037.jpg,1,0.12449197471141815,0.35739991068840027,0.7629817128181458,0.0,0.06383570283651352,0.20552389323711395
+img_038,fear,personal,narrow,tight,furrowed,1,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_038.jpg,1,0.11111795157194138,0.004400142468512058,0.5733956098556519,-1.092862831342245e-07,0.1406015008687973,0.07432753592729568
+img_039,fear,public,wide,open,raised,3,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_039.jpeg,1,0.1272135227918625,0.3346514403820038,0.5574228763580322,1.2207155464238895e-07,0.16578951478004456,0.21790388226509094
+img_040,fear,public,narrow,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_040.jpg,1,0.12194526195526123,0.017422454431653023,0.5864254236221313,-8.174066579158534e-08,0.07668712735176086,0.07108451426029205
+img_041,fear,work,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_041.jpg,1,0.12302735447883606,0.5614567995071411,0.6361936330795288,-1.3585443525698793e-07,0.07921250909566879,0.28963616490364075
+img_042,fear,work,downcast,tight,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_042.jpg,1,0.10454530268907547,0.0028147639241069555,0.5562146306037903,0.0,0.12805436551570892,0.06855490058660507
+img_043,fear,personal,narrow,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Fear\img_043.jpeg,1,0.050762493163347244,0.3210482895374298,0.6510835886001587,-1.417716219975773e-07,0.1179516538977623,0.1723146289587021
+img_044,fear,work,wide,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_044.jpeg,1,0.15997444093227386,0.1697513610124588,0.6346014738082886,-1.201235733105932e-07,0.10311508923768997,0.15251334011554718
+img_045,fear,personal,wide,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_045.jpeg,1,0.15834182500839233,0.1992247849702835,0.5173441767692566,9.77658842771234e-08,0.09110269695520401,0.16124719381332397
+img_046,fear,public,wide,neutral,raised,2,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_046.jpg,1,0.14671792089939117,0.01634727604687214,0.6516081094741821,-1.1146759959501651e-07,0.13918240368366241,0.09306255728006363
+img_047,fear,public,wide,open,raised,2,reactive,E:\Machine learning\Reading Week\dataset\Fear\img_047.jpg,1,0.13145215809345245,0.15557050704956055,0.5879909992218018,8.757395875136353e-08,0.09798439592123032,0.1344059407711029
+img_048,fear,personal,wide,tight,furrowed,2,isolated,E:\Machine learning\Reading Week\dataset\Fear\img_048.jpg,1,0.13895200192928314,0.00539026316255331,0.576815128326416,7.128068801875997e-08,0.08845377713441849,0.07542766630649567
+img_049,anger,personal,narrow,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_049.jpg,1,0.10300566256046295,0.40823307633399963,0.6465769410133362,0.0,0.08145124465227127,0.2207857370376587
+img_050,anger,personal,narrow,tight,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_050.jpg,1,0.07701506465673447,0.015391044318675995,0.5092422366142273,0.0,0.12874087691307068,0.06271061301231384
+img_051,anger,personal,narrow,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_051.jpg,1,0.04592229425907135,0.17607294023036957,0.5100354552268982,-1.012316559467763e-07,0.14757287502288818,0.11831266433000565
+img_052,anger,work,wide,tight,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_052.jpg,1,0.1260707527399063,0.0014535688096657395,0.47406449913978577,9.819647317499403e-08,0.12436559051275253,0.07588285207748413
+img_053,anger,personal,narrow,tight,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_053.jpg,1,0.10438060015439987,0.0014860194642096758,0.49617916345596313,0.0,0.10122429579496384,0.06259150803089142
+img_054,anger,public,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_054.jpg,1,0.10890955477952957,0.2796045243740082,0.6712732315063477,-9.680223200803084e-08,0.08606643229722977,0.17261892557144165
+img_055,anger,public,narrow,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_055.jpeg,1,0.10236372798681259,0.22622375190258026,0.6801813840866089,0.0,0.08039896935224533,0.14751479029655457
+img_056,anger,personal,wide,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_056.jpg,1,0.11043820530176163,0.26101842522621155,0.5951041579246521,-9.939325451568948e-08,0.07722975313663483,0.164028599858284
+img_057,anger,personal,narrow,tight,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_057.jpeg,1,0.050611235201358795,0.012968955561518669,0.49556952714920044,0.0,0.13149915635585785,0.051731906831264496
+img_058,anger,public,"
+neutral",neutral,furrowed,1,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_058.jpg,1,0.11573830246925354,0.025344043970108032,0.6196078062057495,-7.352471698141017e-08,0.06522531807422638,0.06947800517082214
+img_059,anger,public,narrow,tight,furrowed,1,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_059.jpg,1,0.07451862841844559,0.037252794951200485,0.5469183325767517,0.0,0.08088673651218414,0.060885921120643616
+img_060,anger,personal,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_060.jpg,1,0.12616634368896484,0.10857201367616653,0.5430653691291809,0.0,0.09519790858030319,0.11293493211269379
+img_061,anger,work,narrow,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_061.jpeg,1,0.09791166335344315,0.09827393293380737,0.5191241502761841,-1.0741949552084407e-07,0.13517159223556519,0.10550855845212936
+img_062,anger,personal,narrow,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_062.jpeg,1,0.07428845018148422,0.4249580204486847,0.5993338227272034,1.2993017151075037e-07,0.11087746918201447,0.22187407314777374
+img_063,anger,personal,closed,open,furrowed,3,isolated,E:\Machine learning\Reading Week\dataset\Anger\img_063.jpg,1,0.017737433314323425,0.5214619636535645,0.653555154800415,0.0,0.15248939394950867,0.24617764353752136
+img_064,anger,personal,narrow,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_064.jpg,0,,,,,,
+img_065,anger,personal,narrow,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_065.jpg,1,0.08677034080028534,0.15663719177246094,0.6057859063148499,9.550720392326184e-08,0.1406739056110382,0.12549778819084167
+img_066,anger,public,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Anger\img_066.jpeg,1,0.07560068368911743,0.11318155378103256,0.572043240070343,0.0,0.10415655374526978,0.09634420275688171
+img_067,anger,personal,"
+neutral",tight,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_067.jpg,1,0.12620598077774048,0.010283020325005054,0.4900254011154175,0.0,0.07121091336011887,0.06883778423070908
+img_068,anger,personal,narrow,tight,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_068.jpg,1,0.09591565281152725,0.019574884325265884,0.4127858877182007,8.956915564795054e-08,0.09990856796503067,0.06617792695760727
+img_069,anger,personal,narrow,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_069.jpg,1,0.09906793385744095,0.5920128226280212,0.6205891966819763,-1.288937880872254e-07,0.014601732604205608,0.27935266494750977
+img_070,anger,personal,closed,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_070.jpeg,1,0.01730094477534294,0.48768290877342224,0.6363502144813538,0.0,0.10606425255537033,0.22320638597011566
+img_071,anger,work,narrow,tight,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_071.jpg,1,0.09753451496362686,0.004147961735725403,0.5616742968559265,0.0,0.15496858954429626,0.07166671007871628
+img_072,anger,work,closed,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Anger\img_072.jpg,1,0.029608428478240967,0.4487234950065613,0.6265637278556824,-9.214420515490929e-08,0.05101974308490753,0.20153671503067017
+img_073,happy,public,narrow,open,neutral,3,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_073.jpg,1,0.03911522403359413,0.1677515059709549,0.7801681756973267,0.0,0.0991840586066246,0.10258350521326065
+img_074,happy,personal,narrow,downturned,neutral,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_074.jpg,1,0.10635589808225632,0.5069803595542908,0.6353752017021179,2.1640435932113178e-07,0.06930652260780334,0.25919580459594727
+img_075,happy,personal,narrow,open,neutral,2,isolated,E:\Machine learning\Reading Week\dataset\Happy\img_075.jpg,0,,,,,,
+img_076,happy,public,narrow,open,neutral,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_076.jpg,0,,,,,,
+img_077,happy,work,narrow,open,raised,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_077.jpg,0,,,,,,
+img_078,happy,public,narrow,open,raised,2,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_078.jpg,0,,,,,,
+img_079,happy,personal,closed,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_079.jpg,1,0.04450603947043419,0.18238727748394012,0.7548826336860657,0.0,0.2533416450023651,0.14142565429210663
+img_080,happy,personal,closed,open,neutral,3,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_080.jpg,1,0.09840954095125198,0.41000935435295105,0.6908190846443176,2.755315904323652e-07,0.1001921072602272,0.22340598702430725
+img_081,happy,personal,closed,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_081.jpg,0,,,,,,
+img_082,happy,personal,narrow,open,neutral,2,isolated,E:\Machine learning\Reading Week\dataset\Happy\img_082.jpg,0,,,,,,
+img_083,happy,personal,downcast,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_083.jpg,0,,,,,,
+img_084,happy,public,narrow,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_084.jpg,0,,,,,,
+img_085,happy,personal,narrow,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_085.jpg,0,,,,,,
+img_086,happy,work,narrow,open,neutral,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_086.jpg,1,0.06727912276983261,0.2720995843410492,0.8347219228744507,0.0,0.12025990337133408,0.15980346500873566
+img_087,happy,work,narrow,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_087.jpg,0,,,,,,
+img_088,happy,personal,narrow,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_088.jpg,0,,,,,,
+img_089,happy,work,closed,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_089.jpg,1,0.03911979869008064,0.19576755166053772,0.7506134510040283,-2.2374841535111045e-07,0.14177796244621277,0.12231052666902542
+img_090,happy,personal,narrow,tight,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_090.jpg,1,0.0646972805261612,0.09324847161769867,0.5229901075363159,0.0,0.07484110444784164,0.07814652472734451
+img_091,happy,public,narrow,open,raised,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_091.jpg,0,,,,,,
+img_092,happy,personal,"
+neutral",open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_092.jpg,0,,,,,,
+img_093,happy,personal,narrow,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_093.jpg,1,0.07695426791906357,0.21794520318508148,0.7840585112571716,0.0,0.10658002644777298,0.13927578926086426
+img_094,happy,personal,closed,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_094.jpg,1,0.03753054887056351,0.20321372151374817,0.7707042694091797,1.3994947778428468e-07,0.11745581030845642,0.11978887021541595
+img_095,happy,public,narrow,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_095.jpg,0,,,,,,
+img_096,happy,public,narrow,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_096.jpg,0,,,,,,
+img_097,happy,personal,narrow,open,raised,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_097.jpg,1,0.053731150925159454,0.24625001847743988,0.78117835521698,-1.0192744070991466e-07,0.13178269565105438,0.1463489979505539
+img_098,happy,public,closed,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Happy\img_098.jpg,0,,,,,,
+img_099,happy,personal,narrow,open,neutral,2,reactive,E:\Machine learning\Reading Week\dataset\Happy\img_099.jpg,1,0.07501368224620819,0.16280974447727203,0.8094798922538757,1.2082000289126427e-08,0.08876267075538635,0.11288190633058548
+img_100,neutral,personal,"
+neutral",tight,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_100.jpg,1,0.10963867604732513,0.011435353197157383,0.5006769299507141,0.0,0.06963067501783371,0.06235574930906296
+img_101,neutral,work,"
+neutral",neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_101.jpg,1,0.12023492157459259,0.0013006340013816953,0.5408037304878235,6.92513992817112e-08,0.1517869532108307,0.07897161692380905
+img_102,neutral,work,"
+neutral",neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_102.jpg,1,0.11959575116634369,0.04495067521929741,0.4699561893939972,0.0,0.1178838461637497,0.08939534425735474
+img_103,neutral,personal,downcast,neutral,furrowed,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_103.jpg,1,0.10449033230543137,0.003002909244969487,0.5407872200012207,0.0,0.11084945499897003,0.06516718864440918
+img_104,neutral,public,"
+neutral",tight,furrowed,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_104.jpg,1,0.1287713348865509,0.006512317340821028,0.5403384566307068,-1.437030050510657e-07,0.08229770511388779,0.07057300209999084
+img_105,neutral,work,"
+neutral",tight,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_105.jpg,1,0.13291534781455994,0.004292472265660763,0.5635157823562622,-1.6618444931282284e-07,0.17687726020812988,0.09025858342647552
+img_106,neutral,work,"
+neutral",neutral,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_106.jpg,1,0.10099288821220398,0.010349147021770477,0.49320289492607117,1.279022399103269e-07,0.14785467088222504,0.07410775125026703
+img_107,neutral,personal,"
+neutral",neutral,raised,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_107.jpg,1,0.10883816331624985,0.0070260618813335896,0.553260862827301,-1.2591885933943558e-07,0.1463366597890854,0.07561302185058594
+img_108,neutral,work,narrow,downturned,neutral,1,State,E:\Machine learning\Reading Week\dataset\Nuetual\img_108.jpg,1,0.22452329099178314,0.01730765402317047,0.28079739212989807,0.0,0.23892509937286377,0.14451740682125092
+img_109,neutral,personal,narrow,neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_109.jpg,1,0.0755649134516716,0.008816170506179333,0.6231194734573364,-1.1412409151034808e-07,0.047577932476997375,0.04326802119612694
+img_110,neutral,personal,"
+neutral",downturned,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_110.jpg,1,0.11664246022701263,0.007154152262955904,0.6264535188674927,0.0,0.09241117537021637,0.06800088286399841
+img_111,neutral,work,narrow,tight,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_111.jpg,0,,,,,,
+img_112,neutral,public,narrow,tight,furrowed,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_112.jpg,1,0.1024111658334732,0.013839717954397202,0.5901393890380859,-1.2869487875377672e-07,0.1098407581448555,0.06846850365400314
+img_113,neutral,personal,narrow,downturned,furrowed,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_113.jpg,1,0.10325207561254501,0.062157049775123596,0.5351741313934326,0.0,0.1727830469608307,0.10072025656700134
+img_114,neutral,work,"
+neutral",tight,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_114.jpg,1,0.09662628918886185,0.006981712765991688,0.6433357000350952,-6.869085211747006e-08,0.056355997920036316,0.05271439999341965
+img_115,neutral,public,narrow,neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_115.jpg,1,0.11343621462583542,0.0014820051146671176,0.5057911276817322,0.0,0.1434950977563858,0.07466630637645721
+img_116,neutral,public,"
+neutral",neutral,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_116.jpg,1,0.11354350298643112,0.003909714054316282,0.4794183671474457,-1.457754592593119e-07,0.13370934128761292,0.07372315227985382
+img_117,neutral,public,"
+neutral",tight,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_117.jpg,1,0.10560953617095947,0.025179501622915268,0.5651581287384033,-1.2694263773482817e-07,0.12627074122428894,0.07756976783275604
+img_118,neutral,public,"
+neutral",neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_118.jpg,1,0.13804572820663452,0.005368919111788273,0.5145918130874634,0.0,0.10042311996221542,0.07745048403739929
+img_119,neutral,public,"
+neutral",tight,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_119.jpg,1,0.12130340933799744,0.0004019509651698172,0.5127196907997131,0.0,0.09066513925790787,0.06681517511606216
+img_120,neutral,work,"
+neutral",neutral,neutral,1,isolated,E:\Machine learning\Reading Week\dataset\Nuetual\img_120.jpg,1,0.11680839955806732,0.004468460567295551,0.545674741268158,-9.953565438536316e-08,0.1148596704006195,0.07148268073797226
+img_121,neutral,work,narrow,neutral,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_121.jpg,1,0.11729082465171814,0.001784990425221622,0.6136772632598877,-5.770287003770136e-08,0.07588813453912735,0.06280795484781265
+img_122,neutral,personal,downcast,tight,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_122.jpg,1,0.04405113682150841,0.0005306031089276075,0.5355103015899658,1.313795223722991e-07,0.16462595760822296,0.050757888704538345
+img_123,neutral,public,"
+neutral",tight,neutral,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_123.jpg,1,0.09561687707901001,0.010677710175514221,0.46378353238105774,0.0,0.17324510216712952,0.0771668553352356
+img_124,neutral,public,"
+neutral",tight,furrowed,1,reactive,E:\Machine learning\Reading Week\dataset\Nuetual\img_124.jpg,1,0.08872760832309723,0.002849982352927327,0.6136910319328308,0.0,0.10343386977910995,0.057317815721035004
+img_125,shocked,public,narrow,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_125.jpg,1,0.12357325106859207,0.1278635561466217,0.5809712409973145,0.0,0.1099703460931778,0.12256879359483719
+img_126,shocked,personal,narrow,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_126.jpg,1,0.14054176211357117,0.237880676984787,0.5297641754150391,0.0,0.11036361008882523,0.17344169318675995
+img_127,shocked,work,wide,open,raised,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_127.jpg,1,0.13207700848579407,0.20080164074897766,0.48866719007492065,1.0786892801206704e-07,0.056675199419260025,0.14448650181293488
+img_128,shocked,personal,wide,open,raised,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_128.jpg,1,0.13573570549488068,0.08170614391565323,0.5996741056442261,0.0,0.11602624505758286,0.11018198728561401
+img_129,shocked,public,wide,open,raised,3,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_129.jpg,1,0.1465703547000885,0.22641682624816895,0.5336864590644836,0.0,0.16803115606307983,0.18280109763145447
+img_130,shocked,public,wide,downturned,raised,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_130.jpg,1,0.14820465445518494,0.1982697993516922,0.6497741341590881,-8.415378971449172e-08,0.18508313596248627,0.17560641467571259
+img_131,shocked,personal,wide,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_131.jpg,1,0.1335274577140808,0.32039201259613037,0.4854542911052704,0.0,0.06515620648860931,0.19459903240203857
+img_132,shocked,work,wide,open,furrowed,2,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_132.jpg,1,0.145603746175766,0.11303681135177612,0.45677170157432556,-1.1563792412516705e-07,0.09466918557882309,0.12239006161689758
+img_133,shocked,work,wide,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_133.jpg,1,0.10976993292570114,0.19964253902435303,0.6603057980537415,0.0,0.09090907871723175,0.14194680750370026
+img_134,shocked,personal,narrow,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_134.jpg,1,0.0710957795381546,0.10488088428974152,0.5947290062904358,-8.593405453893865e-08,0.10751231014728546,0.09189312160015106
+img_135,shocked,personal,wide,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_135.jpg,1,0.13116255402565002,0.3667369484901428,0.5688090920448303,-6.294747834090231e-08,0.10609803348779678,0.22037941217422485
+img_136,shocked,personal,wide,open,furrowed,3,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_136.jpg,1,0.08404439687728882,0.27631983160972595,0.647536039352417,0.0,0.10391130298376083,0.16492795944213867
+img_137,shocked,public,narrow,open,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_137.jpg,1,0.10381186008453369,0.1357424110174179,0.5870367288589478,-9.242322107638756e-08,0.1110057383775711,0.1180228590965271
+img_138,shocked,work,wide,downturned,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_138.jpg,1,0.09333636611700058,0.12460608780384064,0.6351521611213684,1.4720936292178521e-07,0.09041812270879745,0.10526060312986374
+img_139,shocked,personal,wide,downturned,furrowed,1,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_139.jpg,1,0.08894818276166916,0.015165635384619236,0.5436378717422485,1.1092291174463753e-07,0.05366811156272888,0.05237915366888046
+img_140,shocked,personal,narrow,tight,furrowed,2,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_140.jpg,1,0.10340473055839539,0.00777240889146924,0.6180139780044556,0.0,0.1401645690202713,0.07250377535820007
+img_141,shocked,public,wide,open,raised,3,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_141.jpg,1,0.15541572868824005,0.2598123252391815,0.5050920844078064,6.330706270318842e-08,0.11485367268323898,0.1890619546175003
+img_142,shocked,work,wide,open,raised,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_142.jpg,1,0.14354857802391052,0.1925741285085678,0.5424988269805908,0.0,0.12495731562376022,0.1594405472278595
+img_143,shocked,personal,wide,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_143.jpg,1,0.1517588496208191,0.2904629707336426,0.3965248167514801,9.085935204211637e-08,0.12721294164657593,0.2023313194513321
+img_144,shocked,personal,wide,open,neutral,2,interactive,E:\Machine learning\Reading Week\dataset\Shocked\img_144.jpg,1,0.15395808219909668,0.4113963842391968,0.5356589555740356,0.0,0.09606511145830154,0.2453548163175583
+img_145,shocked,work,wide,open,eyebrow,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_145.jpg,1,0.09023785591125488,0.492085725069046,0.6495094299316406,1.3778176821688248e-07,0.046658486127853394,0.24226114153862
+img_146,shocked,work,wide,open,raised,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_146.jpg,1,0.13450606167316437,0.48509177565574646,0.6098382472991943,7.55102718130729e-08,0.07996182888746262,0.2638314962387085
+img_147,shocked,personal,narrow,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_147.jpg,1,0.07551990449428558,0.3993515372276306,0.5961996912956238,0.0,0.10155917704105377,0.21026040613651276
+img_148,shocked,work,wide,open,furrowed,3,reactive,E:\Machine learning\Reading Week\dataset\Shocked\img_148.jpg,1,0.14320838451385498,0.3213306963443756,0.543420135974884,9.232172004658423e-08,0.07361512631177902,0.20053866505622864
