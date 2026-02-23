@@ -1,31 +1,15 @@
-# Term-time Project — Submission Guide  
-## Computing Social State from Facial Structure  
-Shuran Zhang  
+# Computing Social State from Facial Structure  
+Term-time project- aprroach2 — Shuran Zhang  
 
----
+This aprroach explores whether social behaviour can be computationally inferred from facial geometry, emotion labels, and contextual metadata.
+It builds a pipeline from facial feature extraction to machine learning modelling.
 
-# 1️⃣ The Poster
-
-Submit the final version of the poster as a PDF.
-
-Included file:
+# The Poster
 
 - `Facial Datase Poster.pdf`
 
-All team members should submit the same poster file.
 
-The poster presents:
-- Dataset construction  
-- Two research approaches  
-- Machine learning modelling  
-- Social interpretation findings  
-
----
-
-# 2️⃣ The Dataset
-
-Upload the dataset used for this project.  
-If the dataset is too large for the VLE, provide a cloud storage link (e.g., OneDrive).
+# The Dataset
 
 ## Dataset Components
 
@@ -43,20 +27,23 @@ If the dataset is too large for the VLE, provide a cloud storage link (e.g., One
 - `features.csv`
 - `dataset_with_features.csv`
 
-All team members submit the same dataset.
 
----
-
-# 3️⃣ Code and Experiments
-
-Submit all coding experiments and exploratory work conducted with the dataset.
+# Code and Experiments
 
 ## Facial Feature Extraction
 
 Script:
+
 - `step2_extract_features_tasks.py`
+This step converts visual data into machine-readable features.
+
+## Social State Modelling
+
+- `STEP 3 — Social State Modelling`
+The goal is to test whether social behaviour can be computationally inferred from structured facial data.
 
 Run:
 
 ```bash
 python step2_extract_features_tasks.py
+python step3_train_social_state.py
